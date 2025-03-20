@@ -5,9 +5,7 @@ A zine featuring common garden birds in the Philippines by [@benjiaonature](http
 
 # License
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-The Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0) allows you to:
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. It allows you to:
 
 - **Share** — copy and redistribute the material in any medium or format
 - **Adapt** — remix, transform, and build upon the material for any purpose, even commercially.
