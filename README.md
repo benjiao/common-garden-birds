@@ -3,6 +3,10 @@
 
 A zine featuring common garden birds in the Philippines by [@benjiaonature](https://instagram.com/benjiaonature). I made this zine using photos I've taken while birdwatching. This was created as a giveaway for our wedding.
 
+This is the layout that I used to print it on a single A4 size sheet of paper and assemble it without the need for binding. You can follow [this guide](https://www.42ndstreet.org.uk/support/read/how-to-make-your-own-zine/) to learn more about how to put it together.
+
+![Zine Layout](zine.png)
+
 # License
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa]. It allows you to:
